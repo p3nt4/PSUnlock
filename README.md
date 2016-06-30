@@ -10,7 +10,7 @@ Run A Powershell Command: PSUnlock.exe [script]
 
 Run A Powershell script: PSUnlock.exe -f [path]
 
-Alter a file: PSUnlock.exe -a [path] (offset) (string)
+Alter a file: PSUnlock.exe -a [path] [offset] [string]
 
 Remove resources from a PE: PSUnlock.exe -rc [path]
 
