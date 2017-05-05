@@ -2,8 +2,6 @@
 
 Simple project to bypass windows group policy and run powershell scripts without powershell.exe.
 
-Try "echo a >> blacklisted.exe" first, works most of the time.
-
 #Usage:
 
 Run A Powershell Command: PSUnlock.exe [script]
