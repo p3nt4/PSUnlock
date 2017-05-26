@@ -1,3 +1,6 @@
+This project is deprecated. Please visit https://github.com/p3nt4/PowerShdll.
+Powershdll will soon support inlinee scripts.
+
 # PSUnlock
 
 Simple project to bypass windows group policy and run powershell scripts without powershell.exe.
